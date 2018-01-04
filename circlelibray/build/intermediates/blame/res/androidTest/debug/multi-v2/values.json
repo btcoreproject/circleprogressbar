@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\leehaneul\\Desktop\\circleprogressbar\\circlelibray\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\leehaneul\\Desktop\\circleprogressbar\\circlelibray\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,4,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,542,1032",
+                        "endLines": "2,13,23",
+                        "endColumns": "62,12,12",
+                        "endOffsets": "113,1027,1517"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\leehaneul\\Downloads\\android-HoloCircularProgressBar-master\\android-HoloCircularProgressBar-master\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\leehaneul\\Downloads\\android-HoloCircularProgressBar-master\\android-HoloCircularProgressBar-master\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,4,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,542,1032",
+                        "endLines": "2,13,23",
+                        "endColumns": "62,12,12",
+                        "endOffsets": "113,1027,1517"
+                    }
+                }
+            ]
+        }
+    ]
+}
